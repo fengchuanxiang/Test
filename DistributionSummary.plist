@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WealthClasses.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>C914122191FC882F7B03BAA85FB1D1D0457D65A7</string>
+				<key>dateExpires</key>
+				<string>2021/2/4</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>V5S25J9BX6.com.shark.course</string>
+				<key>com.apple.developer.associated-domains</key>
+				<array>
+					<string>applinks:www.caifuxingketang.com</string>
+				</array>
+				<key>com.apple.developer.team-identifier</key>
+				<string>V5S25J9BX6</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>财富星课堂.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>41b37232-ecd4-4dbf-b762-6d920a4098bb</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.shark.course</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>V5S25J9BX6</string>
+				<key>name</key>
+				<string>Beijing Shark Pioneer Network Technology Co.,Ltd</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
